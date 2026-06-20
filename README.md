@@ -56,17 +56,16 @@ First Class Computer Science graduate (De Montfort University, 2025) with hands-
 [![Repo](https://img.shields.io/badge/View_Repo-GitHub-black?style=flat&logo=github)](https://github.com/HasibeeGencc/DeepfakeVideoDetector)
 
 ---
-### 🎬 [Movie Analytics Dashboard](https://github.com/HasibeeGencc/movie-analytics-dashboard)
+### 🎬 Movie Recommendation API
+> Python · FastAPI · REST API · Data Processing
 
-> Python · Streamlit · Pandas · Plotly · Data Analytics
+- Developed a RESTful API for movie discovery and recommendation workflows
+- Implemented endpoint-based architecture using FastAPI
+- Designed scalable request handling and data processing pipelines
+- Generated interactive API documentation through Swagger/OpenAPI
+- Applied modern backend development practices and clean project structure
 
-- Engineered an interactive analytics dashboard for exploring movie datasets through real-time filtering and visualisation
-- Developed KPI reporting components to monitor movie counts, average ratings, and top-performing titles
-- Built interactive Plotly visualisations including bar charts, scatter plots, and categorical breakdowns
-- Leveraged Pandas for data transformation, filtering, and aggregation workflows
-- Deployed as a lightweight web application using Streamlit
-
-[![Repo](https://img.shields.io/badge/View_Repo-GitHub-black?style=flat&logo=github)](https://github.com/HasibeeGencc/movie-analytics-dashboard)
+[![Repo](https://img.shields.io/badge/View_Repo-GitHub-black?style=flat&logo=github)](https://github.com/HasibeeGencc/movie-api)
 
 ### 🛰️ Real-Time Aerial Image Processing *(Internship — Private)*
 > Python · OpenCV · YOLOv8 · Docker · Neural Networks
