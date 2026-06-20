@@ -56,7 +56,8 @@ First Class Computer Science graduate (De Montfort University, 2025) with hands-
 [![Repo](https://img.shields.io/badge/View_Repo-GitHub-black?style=flat&logo=github)](https://github.com/HasibeeGencc/DeepfakeVideoDetector)
 
 ---
-### 🎬 Movie Analytics Dashboard
+### 🎬 [Movie Analytics Dashboard](https://github.com/HasibeeGencc/movie-analytics-dashboard)
+
 > Python · Streamlit · Pandas · Plotly · Data Analytics
 
 - Engineered an interactive analytics dashboard for exploring movie datasets through real-time filtering and visualisation
@@ -65,7 +66,7 @@ First Class Computer Science graduate (De Montfort University, 2025) with hands-
 - Leveraged Pandas for data transformation, filtering, and aggregation workflows
 - Deployed as a lightweight web application using Streamlit
 
-[![Repo](https://img.shields.io/badge/View_Repo-GitHub-black?style=flat&logo=github)](YOUR_REPOSITORY_LINK)
+[![Repo](https://img.shields.io/badge/View_Repo-GitHub-black?style=flat&logo=github)](https://github.com/HasibeeGencc/movie-analytics-dashboard)
 
 ### 🛰️ Real-Time Aerial Image Processing *(Internship — Private)*
 > Python · OpenCV · YOLOv8 · Docker · Neural Networks
